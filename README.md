@@ -4,7 +4,8 @@
 
 ### IDE
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white) ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white) 
-![https://github.com/jsjshub](https://github-readme-stats.vercel.app/api?username=jsjshub&theme=default&show_icons=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjshub&theme=default&show_icons=true&hide=stars)
+
 
 
 
